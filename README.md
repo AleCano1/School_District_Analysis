@@ -35,17 +35,17 @@ The math and reading scores by grades are the same, talking about Thomas High Sc
 *Scores by school spending
 ---
 ![Scores_by_school_speding](Resources/Scores_by_school_speding.png)
-The scores are same than before. Less than $584 has more percentage of spending, in Math 93%, 97% and 90% overall, just 66% has a spending per student between %645 and $675 in math.
+The scores are the same as before. Less than $584 has more percentage of spending, in Math, 93%, 97% and 90% overall, just 66% have a spending per student between %645 and $675 in math.
 
 *Scores by school size
 ----
 ![Scores_by_school_size](Resources/Scores_by_school_size.png)
-The scores are the same than before. A medium school has 94% passing math, the same percentage than small, and 97% passing reading and finally 91% overall passing. Large school has only 58% overall passing.
+The scores are the same as before. A medium school has 94% passing math, the same percentage as small, 97% passing reading, and finally 91% overall passing. The large school has only 58% overall passing.
 
 *Scores by school type
 ---
 ![Scores_by_school_type](Resources/Scores_by_school_type.png)
-The scores are the same than before. There are more Charter school passing percentages, 94% passing math, 97% passing Reading and 90% overall passing, Distrcit school has 54% overall passing.
+The scores are the same as before. There are more Charter school passing percentages, 94% passing math, 97% passing Reading, and 90% overall passing, District school has 54% overall passing.
 
 ### Summary
  Talking about the total district summary including 15 schools and 39,170 students the average math score, percentage passing math, percentage passing reading and percentage overall passing dicrease a little bit, the average reading score is the same. While, the school summary of thomas High school specific is lower before the replace of data, having the lowest scores and percentages, after the replace of data, the thomas High School with 1,635 students containing all grades, has a lower percentages of passing math, reading and overall. Finally, it´s important to mention that Thomas High School are a small part of all the district this is why the changes are small, also we only change the 9th grade, so now our data are more precise, even though it seems similar. 
