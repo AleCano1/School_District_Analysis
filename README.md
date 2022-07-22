@@ -1,5 +1,4 @@
 # District School Analysis
-Analysis of standardized test, reports, and presentation of insights performance trends and patterns. Including the student funding and standardized test scores.
 With Pandas, analyze student funding and student’s standardized test scores and aggregate data, and showcase trends in school performance.
 
 ## Overview of Project 
@@ -8,16 +7,27 @@ The purpose of this new analysis is know the performance of students and the rel
 
 ### Description of the source of data.
 Two files that include data about students and the school of the district.
+
 -**School_ID.** Identifies each School.
+
 -**Student_Id.** Identifies each student.
+
 -**School name.** The name of the school that the student goes to.
+
 -**Type.** It shows if the school is a district or Charter.
+
 -**Size.** The number of students that the school has.
+
 -**Budget.** The amount of money each school receives.
+
 -**Student_name.** The name of the student. 
+
 -**Gender.** The gender of the student could be "M" for males or "F" for females.
+
 -**Grade.** The grade of the student.
+
 -**Reading_score.** The Reading score.
+
 -**Math_score.** The math score.
 
 
